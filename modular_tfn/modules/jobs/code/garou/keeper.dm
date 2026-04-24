@@ -36,10 +36,12 @@
 	name = "Sept Keeper"
 	jobtype = /datum/job/vampire/keeper
 
-	id = /obj/item/card/park_ranger/biologist
-	uniform =  /obj/item/clothing/under/vampire/mechanic
-	suit = /obj/item/clothing/suit/vampire/labcoat
-	gloves = /obj/item/clothing/gloves/vampire/work
-	shoes = /obj/item/clothing/shoes/vampire/jackboots/work
+	id = /obj/item/card/park_ranger
+	uniform =  /obj/item/clothing/under/vampire/biker
+	shoes = /obj/item/clothing/shoes/vampire/jackboots
+	head = /obj/item/clothing/head/vampire/baseballcap
+	belt = /obj/item/melee/baton/vamp
+	gloves = /obj/item/clothing/gloves/vampire/leather
+	suit = /obj/item/clothing/suit/vampire/jacket
 	l_pocket = /obj/item/smartphone
-	backpack_contents = list(/obj/item/phone_book=1, /obj/item/card/credit/rich=1)
+	backpack_contents = list(/obj/item/card/credit=1)
