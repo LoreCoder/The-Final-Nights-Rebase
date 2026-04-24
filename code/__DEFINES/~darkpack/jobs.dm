@@ -99,7 +99,7 @@
 #define JOB_GAROU_COUNCIL "Councillor" // Elder, Athro
 #define JOB_GAROU_TRUTHCATCHER "Truthcatcher" // Adren+
 #define JOB_GAROU_WARDER "Warder" // Adren+
-#define JOB_GAROU_WYRMFOE "Wyrmfoe" // Fostern
+#define JOB_GAROU_KEEPER "Keeper" // Fostern
 #define JOB_GAROU_GUARDIAN "Guardian"
 
 // Pentex
