@@ -27,7 +27,7 @@
 	)
 
 	known_contacts = list(
-		"Councillor",
+		"Elder", //TFN EDIT CHANGE - Elder - Original: "Councillor"
 		"Truthcatcher",
 		"Keeper", //TFN EDIT CHANGE - Keeper - Original: "Wyrmfoe",
 		"Guardian"

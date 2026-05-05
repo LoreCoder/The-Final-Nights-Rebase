@@ -121,7 +121,8 @@ JOB_START_HELPER(chantry/gargoyle, JOB_CHANTRY_GARGOYLE)
 /obj/effect/landmark/start/darkpack/forest_wolves
 	name = "generic dog start"
 
-JOB_START_HELPER(forest_wolves/council, JOB_GAROU_COUNCIL)
+// JOB_START_HELPER(forest_wolves/council, JOB_GAROU_COUNCIL)
+JOB_START_HELPER(forest_wolves/elder, JOB_GAROU_ELDER) // TFN EDIT ADD - Elder
 JOB_START_HELPER(forest_wolves/warder, JOB_GAROU_WARDER)
 JOB_START_HELPER(forest_wolves/catcher, JOB_GAROU_TRUTHCATCHER)
 // JOB_START_HELPER(forest_wolves/wyrmfoe, JOB_GAROU_WYRMFOE) //TFN EDIT REMOVAL - Wyrmfoe
