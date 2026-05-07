@@ -128,7 +128,7 @@
 /datum/job_department/gaia
 	department_name = DEPARTMENT_GAIA
 	department_bitflags = DEPARTMENT_BITFLAG_GAIA
-	department_head = /datum/job/vampire/councillor
+	department_head = /datum/job/vampire/elder
 	department_experience_type = EXP_TYPE_GAIA
 	display_order = 1
 	label_class = "gaia"
